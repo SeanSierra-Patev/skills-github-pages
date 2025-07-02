@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+High Performance Computing Quahog: Welcome to Sean's µBinfie blog!
 ---
